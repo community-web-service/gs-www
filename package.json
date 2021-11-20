@@ -1,0 +1,29 @@
+{
+	"name":"gs-www",
+	"version":"0.0.1",
+	"description":"Gulp Swallower plugin for building websites based on HTML/CSS/JS.",
+	"homepage":"https://github.com/community-web-service/gs-www",
+	"author":{
+		"name":"Robert Gaines",
+		"email":"rob@communitywebservice.com",
+		"url":"https://www.communitywebservice.com"
+	},
+	"license":"Apache-2.0",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/community-web-service/gs-www"
+	},
+	"bugs":{
+		"email":"rob@communitywebservice.com",
+		"url":"https://github.com/community-web-service/gs-www/issues"
+	},
+	"directories":{
+		"doc":"./doc/md/"
+	},
+	"main":"index.js",
+	"dependencies": {},
+	"scripts":{
+		"test":"echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords":[]
+}
